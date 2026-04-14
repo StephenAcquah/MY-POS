@@ -1,0 +1,16 @@
+{
+  "name": "Hardware Store POS",
+  "short_name": "Hardware POS",
+  "start_url": "./images/pos.html",
+  "display": "standalone",
+  "background_color": "#667eea",
+  "theme_color": "#667eea",
+  "description": "A web-based POS system for hardware material sales with inventory tracking.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192"
+    }
+  ]
+}
